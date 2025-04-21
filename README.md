@@ -24,7 +24,5 @@ AI-powered marketing insights tool transforms how beauty companies engage with c
 Combines data scraping, NLP, and machine learning to find leads
 
 Provides a scalable solution for lead generation and marketing efficiency.
-![image](https://github.com/user-attachments/assets/03df85e5-740f-436d-bd8a-22aebb170f40)
-
 
 
